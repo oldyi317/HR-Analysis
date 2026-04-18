@@ -1,0 +1,29 @@
+# Python / uv
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+build/
+dist/
+
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local history (VSCode)
+.history/
+
+# Env
+.env
+.env.local
+
+# Output 保留資料夾與匯出檔，但忽略暫存
+output/*.tmp
+output/executed.ipynb

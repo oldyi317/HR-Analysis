@@ -1,0 +1,148 @@
+﻿EmployeeNumber,Department,JobRole,Age,YearsAtCompany,OverTime,WorkLifeBalance,JobSatisfaction,RiskScore,RiskTier,PrimaryRiskFactor,PrimarySignal,SuggestedAction,ReviewCadence,AttritionFlag
+622,Research & Development,Laboratory Technician,26,1,Yes,1,4,0.907,High (≥50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+1273,Sales,Sales Representative,25,1,Yes,3,4,0.899,High (≥50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+478,Sales,Sales Representative,21,3,Yes,3,2,0.894,High (≥50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+614,Sales,Sales Representative,18,0,Yes,3,2,0.874,High (≥50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+1487,Sales,Sales Executive,29,5,No,1,2,0.872,High (≥50%),BusinessTravel_Travel_Frequently,頻繁出差,檢討出差頻率，評估遠距／輪替替代方案,每月,1
+1494,Research & Development,Laboratory Technician,24,0,Yes,2,1,0.872,High (≥50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+167,Sales,Sales Representative,19,0,Yes,2,3,0.838,High (≥50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+514,Research & Development,Research Scientist,30,1,Yes,3,4,0.834,High (≥50%),JobHoppingRate,換工作頻率指數,安排主管定期 check-in,每月,1
+959,Sales,Sales Representative,19,1,Yes,4,2,0.826,High (≥50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+1624,Sales,Sales Representative,18,0,Yes,4,4,0.822,High (≥50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+19,Research & Development,Laboratory Technician,28,4,Yes,3,3,0.819,High (≥50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+720,Sales,Sales Executive,24,2,No,3,3,0.8,High (≥50%),JobHoppingRate,換工作頻率指數,安排主管定期 check-in,每月,1
+1844,Human Resources,Human Resources,29,2,Yes,3,1,0.79,High (≥50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+1167,Sales,Sales Executive,42,21,Yes,2,1,0.756,High (≥50%),YearsSinceLastPromotion,距上次升遷年數,與主管召開升遷路徑對話，建立 12 個月 development plan,每季,1
+1053,Research & Development,Research Scientist,26,3,Yes,3,1,0.752,High (≥50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+911,Research & Development,Laboratory Technician,32,1,Yes,1,4,0.75,High (≥50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+918,Research & Development,Laboratory Technician,58,1,Yes,2,4,0.749,High (≥50%),JobHoppingRate,換工作頻率指數,安排主管定期 check-in,每月,1
+1108,Research & Development,Research Scientist,33,2,Yes,3,2,0.747,High (≥50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+1928,Sales,Sales Representative,29,1,No,3,1,0.744,High (≥50%),BusinessTravel_Travel_Frequently,頻繁出差,檢討出差頻率，評估遠距／輪替替代方案,每月,1
+1504,Research & Development,Laboratory Technician,28,0,No,2,1,0.741,High (≥50%),BusinessTravel_Travel_Frequently,頻繁出差,檢討出差頻率，評估遠距／輪替替代方案,每月,1
+1427,Sales,Sales Representative,31,1,No,3,3,0.74,High (≥50%),BusinessTravel_Travel_Frequently,頻繁出差,檢討出差頻率，評估遠距／輪替替代方案,每月,1
+960,Research & Development,Laboratory Technician,20,1,No,3,1,0.728,High (≥50%),JobRole_Laboratory Technician,JobRole_Laboratory Technician,安排主管定期 check-in,每月,1
+1862,Sales,Sales Executive,32,2,Yes,2,2,0.715,High (≥50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+1649,Research & Development,Laboratory Technician,40,4,Yes,1,1,0.715,High (≥50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+1968,Sales,Sales Executive,53,2,Yes,2,1,0.714,High (≥50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+1944,Human Resources,Human Resources,27,1,No,3,2,0.708,High (≥50%),BusinessTravel_Travel_Frequently,頻繁出差,檢討出差頻率，評估遠距／輪替替代方案,每月,1
+1318,Sales,Sales Executive,40,5,Yes,3,2,0.707,High (≥50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+72,Sales,Sales Executive,26,2,Yes,2,4,0.702,High (≥50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,0
+299,Sales,Sales Executive,30,6,No,2,1,0.697,High (≥50%),BusinessTravel_Travel_Frequently,頻繁出差,檢討出差頻率，評估遠距／輪替替代方案,每月,1
+1780,Sales,Sales Representative,21,1,No,3,2,0.696,High (≥50%),JobRole_Sales Representative,JobRole_Sales Representative,安排主管定期 check-in,每月,1
+1758,Sales,Sales Executive,33,0,Yes,2,1,0.682,High (≥50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+952,Sales,Sales Representative,25,1,Yes,3,2,0.682,High (≥50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+1279,Research & Development,Laboratory Technician,21,2,No,1,3,0.681,High (≥50%),BusinessTravel_Travel_Frequently,頻繁出差,檢討出差頻率，評估遠距／輪替替代方案,每月,1
+2023,Sales,Sales Representative,23,1,No,2,1,0.674,High (≥50%),BusinessTravel_Travel_Frequently,頻繁出差,檢討出差頻率，評估遠距／輪替替代方案,每月,1
+55,Research & Development,Laboratory Technician,26,1,No,2,3,0.673,High (≥50%),JobRole_Laboratory Technician,JobRole_Laboratory Technician,安排主管定期 check-in,每月,1
+1439,Sales,Sales Representative,25,3,No,3,1,0.672,High (≥50%),JobRole_Sales Representative,JobRole_Sales Representative,安排主管定期 check-in,每月,1
+175,Sales,Sales Executive,31,2,Yes,3,3,0.67,High (≥50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+1379,Sales,Sales Representative,31,1,No,4,4,0.669,High (≥50%),JobHoppingRate,換工作頻率指數,安排主管定期 check-in,每月,1
+1569,Research & Development,Laboratory Technician,35,1,Yes,3,1,0.668,High (≥50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+816,Research & Development,Laboratory Technician,29,1,Yes,3,1,0.667,High (≥50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+590,Human Resources,Human Resources,34,3,Yes,3,1,0.661,High (≥50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+2021,Sales,Sales Representative,21,2,Yes,3,1,0.659,High (≥50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,0
+1319,Sales,Sales Executive,52,8,Yes,2,2,0.655,High (≥50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+485,Sales,Sales Representative,33,1,Yes,3,3,0.653,High (≥50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+1037,Sales,Sales Executive,26,2,No,3,1,0.653,High (≥50%),JobHoppingRate,換工作頻率指數,安排主管定期 check-in,每月,1
+702,Research & Development,Research Scientist,33,10,Yes,3,1,0.652,High (≥50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+163,Sales,Sales Executive,31,7,Yes,2,3,0.646,High (≥50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+648,Sales,Sales Representative,30,1,No,4,1,0.644,High (≥50%),BusinessTravel_Travel_Frequently,頻繁出差,檢討出差頻率，評估遠距／輪替替代方案,每月,1
+1331,Sales,Sales Representative,31,3,Yes,4,2,0.643,High (≥50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+1767,Research & Development,Research Scientist,43,1,Yes,3,3,0.641,High (≥50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+1019,Research & Development,Laboratory Technician,22,4,No,2,1,0.629,High (≥50%),JobRole_Laboratory Technician,JobRole_Laboratory Technician,安排主管定期 check-in,每月,0
+137,Research & Development,Laboratory Technician,20,1,Yes,3,4,0.624,High (≥50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+1489,Sales,Sales Executive,34,15,Yes,4,2,0.621,High (≥50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+1079,Research & Development,Laboratory Technician,21,1,No,2,1,0.621,High (≥50%),JobRole_Laboratory Technician,JobRole_Laboratory Technician,安排主管定期 check-in,每月,1
+1464,Research & Development,Laboratory Technician,31,2,Yes,1,4,0.619,High (≥50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+390,Research & Development,Healthcare Representative,26,5,Yes,3,1,0.619,High (≥50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,0
+411,Sales,Sales Representative,18,0,No,3,3,0.616,High (≥50%),JobRole_Sales Representative,JobRole_Sales Representative,安排主管定期 check-in,每月,0
+1868,Research & Development,Research Scientist,29,1,Yes,2,4,0.61,High (≥50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+1001,Research & Development,Laboratory Technician,27,2,No,3,2,0.609,High (≥50%),JobHoppingRate,換工作頻率指數,安排主管定期 check-in,每月,0
+1077,Sales,Sales Representative,20,2,Yes,3,4,0.608,High (≥50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+554,Sales,Sales Representative,24,5,Yes,3,2,0.608,High (≥50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+608,Human Resources,Human Resources,26,7,Yes,2,3,0.604,High (≥50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+64,Research & Development,Laboratory Technician,48,1,Yes,3,3,0.603,High (≥50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+1645,Sales,Sales Executive,35,2,Yes,2,4,0.602,High (≥50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+1004,Research & Development,Research Scientist,30,5,Yes,3,3,0.6,High (≥50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+235,Sales,Sales Representative,19,0,No,4,1,0.586,High (≥50%),BusinessTravel_Travel_Frequently,頻繁出差,檢討出差頻率，評估遠距／輪替替代方案,每月,1
+1016,Research & Development,Research Scientist,20,1,Yes,3,1,0.581,High (≥50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+1157,Sales,Sales Executive,33,5,Yes,3,1,0.58,High (≥50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+147,Research & Development,Laboratory Technician,34,9,Yes,3,3,0.58,High (≥50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+1,Sales,Sales Executive,41,6,Yes,1,4,0.578,High (≥50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+1752,Sales,Sales Representative,29,2,No,3,2,0.576,High (≥50%),JobRole_Sales Representative,JobRole_Sales Representative,安排主管定期 check-in,每月,1
+1188,Sales,Sales Executive,43,4,No,2,3,0.575,High (≥50%),JobHoppingRate,換工作頻率指數,安排主管定期 check-in,每月,1
+819,Sales,Sales Executive,33,3,No,3,1,0.573,High (≥50%),EnvironmentSatisfaction,環境滿意度,進行 stay interview 探究滿意度低分原因，追蹤 30 天內改善,每月,1
+33,Research & Development,Research Scientist,32,10,Yes,3,1,0.567,High (≥50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+832,Research & Development,Laboratory Technician,40,1,No,3,3,0.559,High (≥50%),BusinessTravel_Travel_Frequently,頻繁出差,檢討出差頻率，評估遠距／輪替替代方案,每月,0
+1611,Research & Development,Laboratory Technician,45,10,Yes,3,1,0.558,High (≥50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,0
+796,Sales,Sales Executive,26,4,No,2,1,0.551,High (≥50%),JobHoppingRate,換工作頻率指數,安排主管定期 check-in,每月,1
+475,Sales,Sales Executive,30,2,Yes,4,3,0.548,High (≥50%),JobHoppingRate,換工作頻率指數,安排主管定期 check-in,每月,0
+994,Research & Development,Research Scientist,29,0,Yes,3,1,0.541,High (≥50%),JobHoppingRate,換工作頻率指數,安排主管定期 check-in,每月,1
+2010,Research & Development,Laboratory Technician,32,6,No,3,2,0.538,High (≥50%),JobRole_Laboratory Technician,JobRole_Laboratory Technician,安排主管定期 check-in,每月,0
+1604,Research & Development,Laboratory Technician,28,1,Yes,3,2,0.528,High (≥50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+142,Sales,Sales Executive,25,6,Yes,3,3,0.526,High (≥50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+1248,Research & Development,Research Scientist,19,1,Yes,4,2,0.524,High (≥50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+502,Sales,Sales Executive,34,5,Yes,2,4,0.524,High (≥50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+2055,Sales,Sales Executive,50,3,Yes,3,1,0.523,High (≥50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+964,Research & Development,Research Scientist,40,1,Yes,3,2,0.522,High (≥50%),JobHoppingRate,換工作頻率指數,安排主管定期 check-in,每月,0
+1111,Research & Development,Laboratory Technician,28,1,No,3,2,0.521,High (≥50%),BusinessTravel_Travel_Frequently,頻繁出差,檢討出差頻率，評估遠距／輪替替代方案,每月,1
+1420,Research & Development,Laboratory Technician,49,4,No,3,1,0.521,High (≥50%),BusinessTravel_Travel_Frequently,頻繁出差,檢討出差頻率，評估遠距／輪替替代方案,每月,1
+401,Sales,Sales Executive,26,8,Yes,3,4,0.519,High (≥50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+1198,Research & Development,Laboratory Technician,20,2,No,2,3,0.519,High (≥50%),JobRole_Laboratory Technician,JobRole_Laboratory Technician,安排主管定期 check-in,每月,0
+970,Sales,Sales Executive,37,14,No,1,3,0.517,High (≥50%),YearsSinceLastPromotion,距上次升遷年數,與主管召開升遷路徑對話，建立 12 個月 development plan,每季,1
+454,Research & Development,Laboratory Technician,29,7,Yes,2,1,0.517,High (≥50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+896,Sales,Sales Representative,29,3,Yes,3,3,0.517,High (≥50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+1716,Sales,Sales Executive,47,23,No,1,3,0.516,High (≥50%),YearsSinceLastPromotion,距上次升遷年數,與主管召開升遷路徑對話，建立 12 個月 development plan,每季,1
+1148,Research & Development,Laboratory Technician,42,1,No,3,4,0.516,High (≥50%),JobRole_Laboratory Technician,JobRole_Laboratory Technician,安排主管定期 check-in,每月,0
+47,Sales,Sales Representative,50,3,Yes,3,3,0.514,High (≥50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+243,Research & Development,Laboratory Technician,19,1,No,2,4,0.51,High (≥50%),JobRole_Laboratory Technician,JobRole_Laboratory Technician,安排主管定期 check-in,每月,1
+1286,Research & Development,Laboratory Technician,28,4,Yes,2,3,0.51,High (≥50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,0
+1961,Sales,Sales Representative,38,1,No,2,1,0.509,High (≥50%),JobRole_Sales Representative,JobRole_Sales Representative,安排主管定期 check-in,每月,0
+394,Research & Development,Laboratory Technician,26,3,Yes,3,2,0.507,High (≥50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+741,Research & Development,Research Scientist,28,7,Yes,3,2,0.503,High (≥50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+846,Sales,Sales Executive,28,8,Yes,3,2,0.502,High (≥50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,0
+436,Sales,Sales Executive,32,13,Yes,3,2,0.501,High (≥50%),YearsSinceLastPromotion,距上次升遷年數,與主管召開升遷路徑對話，建立 12 個月 development plan,每季,0
+785,Sales,Sales Executive,47,5,Yes,3,3,0.501,High (≥50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+1783,Research & Development,Laboratory Technician,22,1,Yes,3,1,0.493,Medium (30-50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+1533,Research & Development,Laboratory Technician,23,4,No,3,3,0.492,Medium (30-50%),JobRole_Laboratory Technician,JobRole_Laboratory Technician,安排主管定期 check-in,每月,0
+932,Research & Development,Laboratory Technician,39,2,Yes,1,1,0.487,Medium (30-50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+1684,Research & Development,Laboratory Technician,23,5,Yes,3,3,0.487,Medium (30-50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+424,Human Resources,Human Resources,31,2,No,3,1,0.487,Medium (30-50%),EnvironmentSatisfaction,環境滿意度,進行 stay interview 探究滿意度低分原因，追蹤 30 天內改善,每月,0
+65,Research & Development,Laboratory Technician,28,2,Yes,2,3,0.482,Medium (30-50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+792,Research & Development,Laboratory Technician,26,2,No,3,4,0.481,Medium (30-50%),BusinessTravel_Travel_Frequently,頻繁出差,檢討出差頻率，評估遠距／輪替替代方案,每月,0
+248,Sales,Sales Representative,41,4,Yes,2,2,0.478,Medium (30-50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+1975,Sales,Sales Executive,39,20,No,3,1,0.478,Medium (30-50%),YearsSinceLastPromotion,距上次升遷年數,與主管召開升遷路徑對話，建立 12 個月 development plan,每季,0
+405,Research & Development,Laboratory Technician,18,0,No,3,3,0.476,Medium (30-50%),JobRole_Laboratory Technician,JobRole_Laboratory Technician,安排主管定期 check-in,每月,1
+1939,Research & Development,Research Scientist,32,4,Yes,3,3,0.473,Medium (30-50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+261,Research & Development,Manufacturing Director,35,1,Yes,3,3,0.47,Medium (30-50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+1876,Sales,Sales Representative,30,1,No,2,4,0.47,Medium (30-50%),JobRole_Sales Representative,JobRole_Sales Representative,安排主管定期 check-in,每月,1
+566,Human Resources,Human Resources,19,1,No,4,4,0.469,Medium (30-50%),EnvironmentSatisfaction,環境滿意度,進行 stay interview 探究滿意度低分原因，追蹤 30 天內改善,每月,1
+1734,Sales,Sales Executive,32,0,No,3,2,0.467,Medium (30-50%),JobInvolvement,工作投入度,進行 stay interview 探究滿意度低分原因，追蹤 30 天內改善,每月,1
+593,Research & Development,Laboratory Technician,22,2,No,3,3,0.467,Medium (30-50%),BusinessTravel_Travel_Frequently,頻繁出差,檢討出差頻率，評估遠距／輪替替代方案,每月,1
+1594,Research & Development,Laboratory Technician,36,3,Yes,3,1,0.461,Medium (30-50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,0
+1173,Research & Development,Laboratory Technician,24,4,No,3,2,0.461,Medium (30-50%),JobRole_Laboratory Technician,JobRole_Laboratory Technician,安排主管定期 check-in,每月,0
+1650,Sales,Sales Executive,29,5,No,3,3,0.461,Medium (30-50%),JobHoppingRate,換工作頻率指數,安排主管定期 check-in,每月,0
+1458,Research & Development,Laboratory Technician,39,1,Yes,4,1,0.46,Medium (30-50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+1916,Research & Development,Laboratory Technician,31,2,No,2,3,0.46,Medium (30-50%),JobHoppingRate,換工作頻率指數,安排主管定期 check-in,每月,0
+274,Research & Development,Manufacturing Director,27,2,No,3,1,0.452,Medium (30-50%),BusinessTravel_Travel_Frequently,頻繁出差,檢討出差頻率，評估遠距／輪替替代方案,每月,0
+282,Research & Development,Healthcare Representative,38,1,Yes,3,1,0.452,Medium (30-50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+1878,Research & Development,Research Scientist,22,1,Yes,3,2,0.45,Medium (30-50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+1669,Sales,Sales Executive,29,10,Yes,2,2,0.444,Medium (30-50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,0
+1714,Human Resources,Human Resources,24,1,No,3,3,0.444,Medium (30-50%),JobInvolvement,工作投入度,進行 stay interview 探究滿意度低分原因，追蹤 30 天內改善,每月,1
+783,Sales,Sales Representative,45,8,No,3,3,0.443,Medium (30-50%),JobRole_Sales Representative,JobRole_Sales Representative,安排主管定期 check-in,每月,0
+355,Research & Development,Laboratory Technician,31,5,No,4,2,0.443,Medium (30-50%),BusinessTravel_Travel_Frequently,頻繁出差,檢討出差頻率，評估遠距／輪替替代方案,每月,1
+51,Research & Development,Research Scientist,36,1,Yes,4,1,0.441,Medium (30-50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,0
+527,Sales,Sales Executive,25,5,Yes,3,4,0.44,Medium (30-50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,0
+75,Research & Development,Laboratory Technician,35,2,Yes,3,1,0.433,Medium (30-50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,0
+440,Research & Development,Research Scientist,28,3,Yes,2,4,0.433,Medium (30-50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+1967,Sales,Sales Executive,31,10,Yes,3,4,0.432,Medium (30-50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+269,Research & Development,Laboratory Technician,35,6,No,3,2,0.428,Medium (30-50%),BusinessTravel_Travel_Frequently,頻繁出差,檢討出差頻率，評估遠距／輪替替代方案,每月,0
+1380,Sales,Sales Executive,35,4,Yes,2,3,0.426,Medium (30-50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+854,Research & Development,Research Scientist,25,4,No,2,1,0.425,Medium (30-50%),JobHoppingRate,換工作頻率指數,安排主管定期 check-in,每月,0
+7,Research & Development,Laboratory Technician,27,2,No,3,2,0.425,Medium (30-50%),JobHoppingRate,換工作頻率指數,安排主管定期 check-in,每月,0
+494,Sales,Sales Representative,21,1,No,3,2,0.422,Medium (30-50%),JobRole_Sales Representative,JobRole_Sales Representative,安排主管定期 check-in,每月,1
+492,Sales,Sales Executive,40,6,Yes,3,3,0.421,Medium (30-50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+927,Research & Development,Laboratory Technician,41,7,Yes,2,4,0.419,Medium (30-50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
+1680,Sales,Sales Representative,20,2,No,3,1,0.413,Medium (30-50%),JobRole_Sales Representative,JobRole_Sales Representative,安排主管定期 check-in,每月,0
+1549,Research & Development,Laboratory Technician,33,15,Yes,3,3,0.412,Medium (30-50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,0
+1299,Research & Development,Laboratory Technician,29,7,Yes,3,3,0.412,Medium (30-50%),OverTime_Yes,加班狀態,重新分配任務量，安排主管 1:1 了解 burnout 狀況,每 2 週,1
